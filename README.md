@@ -239,4 +239,4 @@ This repository serves as the official landing page for NVIDIA Omniverse. The so
 **Get the most recent version of NVIDIA Omniverse today!**
 
 ---
-**Last updated:** 2026-10-07 16:15:14 UTC
+**Last updated:** 2026-10-07 21:51:27 UTC
